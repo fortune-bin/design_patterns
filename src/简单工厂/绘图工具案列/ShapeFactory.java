@@ -1,6 +1,4 @@
-package 简单工厂.简单工厂_绘图工具案列;
-
-import sun.tools.tree.UnsignedShiftRightExpression;
+package 简单工厂.绘图工具案列;
 
 /**
  * Copyright @ Biliu工作室
